@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nomadReactJS/static/js/main.8a3ab3de.chunk.js",
-    "main.js.map": "/nomadReactJS/static/js/main.8a3ab3de.chunk.js.map",
+    "main.js": "/nomadReactJS/static/js/main.9c42959f.chunk.js",
+    "main.js.map": "/nomadReactJS/static/js/main.9c42959f.chunk.js.map",
     "runtime-main.js": "/nomadReactJS/static/js/runtime-main.d58d9262.js",
     "runtime-main.js.map": "/nomadReactJS/static/js/runtime-main.d58d9262.js.map",
     "static/js/2.524bb451.chunk.js": "/nomadReactJS/static/js/2.524bb451.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.d58d9262.js",
     "static/js/2.524bb451.chunk.js",
-    "static/js/main.8a3ab3de.chunk.js"
+    "static/js/main.9c42959f.chunk.js"
   ]
 }
